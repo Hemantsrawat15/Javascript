@@ -24,7 +24,7 @@ chai();  // simple execution
 })();
 
 //using parameters in arror function IIFE
-
+ 
 ( (name) => {
     console.log(`My name is ${name}`);
 })("Hemant");
