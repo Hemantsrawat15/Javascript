@@ -25,7 +25,7 @@ let stringNum= String(someNumber);
 
 //*********************** OPERATIONS *****************************
 
-// console.table([2+2,2-2,2*2,2**3,2/3,10%5]);
+// console.table([2+2,2-2,2*2,2**3,2/3,2%3]);
 
 let str1= "Hello";
 let str2= " Hemant";
