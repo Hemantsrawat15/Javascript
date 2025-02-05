@@ -11,7 +11,7 @@ chai();  // simple execution
     console.log(`DB CONNECTED`);
 })(); // immediately invoking the function
 
-//Whenever we write two IIFE then we hve to give ; in the end. Only then both IIFE will run
+//Whenever we write two IIFE then we have to give ; in the end. Only then both IIFE will run
 
 // ()() In IIFE the first bracket contains the defination of the function and the second bracket is the execution call
 
